@@ -34,5 +34,4 @@ WORKDIR /data
 CMD ["rabbitmq-start"]
 
 # Expose ports.
-EXPOSE 5672
-EXPOSE 15672
+
